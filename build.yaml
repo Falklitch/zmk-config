@@ -14,12 +14,6 @@
 ---
 
 include:
-
-board: [ "nice_nano_v2" ]
-shield: [ "hillside46_left", "hillside46_right" ]
-
-include:
   - board: nice_nano_v2
     shield: hillside46
-
 
